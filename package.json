@@ -1,0 +1,26 @@
+{
+  "name": "starter-javascript",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "source": "src/index.html",
+  "browserlist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandracaulea/starter-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandracaulea/starter-javascript/issues"
+  },
+  "homepage": "https://github.com/alexandracaulea/starter-javascript#readme",
+  "devDependencies": {
+    "parcel": "^2.3.1"
+  }
+}
